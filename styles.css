@@ -18,6 +18,10 @@ li {
   background-color: azure;
 }
 
+#green-txt {
+  color: chartreuse;
+}
+
 .resize {
   margin-left: 50px;
   width: 200px;
