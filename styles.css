@@ -17,3 +17,33 @@ li {
 #white-bg {
   background-color: azure;
 }
+
+.resize {
+  margin-left: 50px;
+  width: 200px;
+  height: 400px;
+}
+
+#akira {
+  clip-path: 50px;
+}
+
+.border {
+  border-style: solid;
+  border-color: purple;
+  border-width: 5px;
+  font-family: "Hedvig Letters Sans", sans-serif;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.navn {
+  display: inline-block;
+  font-family: "Hedvig Letters Sans", sans-serif;
+  font-size: 25px;
+}
+
+.btnsubmit {
+  text-align: center;
+  margin-top: 20px;
+}
