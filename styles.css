@@ -1,0 +1,19 @@
+body {
+  background-color: crimson;
+}
+
+h1 {
+  font-family: "Hedvig Letters Sans", sans-serif;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+li {
+  font-family: "Hedvig Letters Sans", sans-serif;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+#white-bg {
+  background-color: azure;
+}
