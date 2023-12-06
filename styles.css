@@ -8,6 +8,23 @@ h1 {
   margin-bottom: 50px;
 }
 
+h3 {
+  font-family: "Hedvig Letters Sans", sans-serif;
+  display: inline;
+  margin: 40px;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.navbar-items {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
 li {
   font-family: "Hedvig Letters Sans", sans-serif;
   font-size: 25px;
