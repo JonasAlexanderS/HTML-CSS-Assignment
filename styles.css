@@ -1,5 +1,6 @@
 body {
   background-color: crimson;
+  text-align: center;
 }
 
 h1 {
@@ -29,10 +30,12 @@ li {
   font-family: "Hedvig Letters Sans", sans-serif;
   font-size: 25px;
   margin-bottom: 20px;
+  list-style-position: inside;
 }
 
 #white-bg {
   background-color: azure;
+  display: inline-block;
 }
 
 #green-txt {
@@ -53,15 +56,27 @@ li {
   border-style: solid;
   border-color: purple;
   border-width: 5px;
+  padding: 30px;
   font-family: "Hedvig Letters Sans", sans-serif;
   font-size: 25px;
   margin-bottom: 20px;
+  display: inline-block;
+  list-style-type: disc;
+  border-radius: 5px;
 }
 
 .navn {
   display: inline-block;
   font-family: "Hedvig Letters Sans", sans-serif;
   font-size: 25px;
+}
+
+button {
+  border-radius: 5px;
+}
+
+input {
+  border-radius: 5px;
 }
 
 .btnsubmit {
